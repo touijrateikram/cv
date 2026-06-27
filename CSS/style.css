@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>NIKI CV</title>
+  <link rel="stylesheet" href="CSS/style.css">
+</head>
+
+<body>
+  <header>
+    <h1>My CV</h1> 
+    <!-- add microsoftlogo here-->
+    <img src="./images/Microsoft_365_Copilot_Icon.svg" alt="Microsoft logo">
+  </header>
+  <div class="conteneur">
+    <div class="photo-wrapper">
+      <figure class="photo">
+        <img src="./images/me.jpg" alt="Your photo">
+        <h3><figcaption>✨NISHIMURA</figcaption></h3>
+      </figure>
+      <div class="section">
+        <h2>INFORMATION PERSONNELLE</h2>
+        <!-- Add your personal information here -->
+
+        <h3>Name: </h3>
+        <p>NIKI</p>
+        <h3>Email: </h3>
+        <p>NIKI@NISHIMURA.com</p>
+        <h3>Phone: </h3>
+        <p>01-23-45-67-89</p>
+        <h3>Adresse: </h3>
+        <p>9 séoul, hybe enhypen iland</p>
+      </div>
+    </div>
+    <div class="cv-sections">
+      <div class="section">
+        <h2><span role="img" aria-label="PARCOURS">🤩</span> PARCOURS</h2>
+        <!-- Add your education here -->
+        <p>Groupe : Enhypen (Depuis 2020)</p>
+        <p>Agence : HYBE</p>
+        <p>Emission : ILAND</p>
+        <p>Type de personnalité : ENTJ </p>
+        <p>Depuis mes débuts avec le groupe ENHYPEN sous l'agence HYBE, j'ai connu le succès avec des singles populaires et des tournées internationales. Toujours déterminé à évoluer artistiquement, je m'efforce d'inspirer les fans à travers ma musique et mes performances, contribuant ainsi à l'essor continu de la K-pop.J'ai également eu l'opportunité de danser pour SHINee lors de certains concerts.</p>
+      </div>
+
+      <div class="section">
+        <h2><span role="img" aria-label="Loisirs">😋</span> Loisirs</h2>
+        <!-- Add your leisure content here -->
+        <p>Lecture</p>
+        <p> Peinture</p>
+        <p> Cuisine</p>
+      </div>
+
+      <div class="section">
+        <h2><span role="img" aria-label="Sports">😏</span> Sports</h2>
+        <!-- Add your sports content here -->
+        <ul>
+          <li>Sports : 
+            <ul> 
+              <li> Foot-ball</li>
+              <li> basket-ball</li>
+              <li> badminton </li>
+            </ul>
+          </li>
+        </ul>
+        <p>Groupe : Enhypen</p>
+        <p>EN-O'CLOCK : est une websérie, offre aux fans l'occasion de voir les membres d'ENHYPEN dans des situations décontractées et amusantes, montrant leur personnalité individuelle ainsi que leur dynamique en tant que groupe. </p>
+      </div>
+
+      <div class="section skills">
+        <h2><span role="img" aria-label="K-pop">🎧</span> K-pop</h2>
+        <h3><span role="img" aria-label="Idol">🎤😎</span> Idol:</h3>
+        <p><span class="skill-name">DANSE:</span> <span class="stars">&starf;&starf;&starf;&starf;&starf;</span></p>
+        <p><span class="skill-name">CHANT:</span> <span class="stars">&starf;&starf;&starf;&starf;&star;</span></p>
+        <p><span class="skill-name">RAP:</span> <span class="stars">&starf;&starf;&starf;&star;&star;</span></p>
+        <p><span class="skill-name">VISUEL:</span> <span class="stars">&starf;&starf;&star;&star;&star;</span></p>
+        <h3><span role="img" aria-label="Compétanes">🎁</span> Compétances:</h3>
+        <p><span class="skill-name">Motivé:</span> <span class="stars">&starf;&starf;&starf;&star;&star;</span></p>
+        <p><span class="skill-name">Intelligent:</span> <span class="stars">&starf;&starf;&starf;&star;&star;</span></p>
+        <p><span class="skill-name">Curieux:</span> <span class="stars">&starf;&starf;&starf;&star;&star;</span></p>
+        <p><span class="skill-name">Autonome:</span> <span class="stars">&starf;&starf;&starf;&star;&star;</span></p>
+        <h3><span role="img" aria-label="Début">🏆</span> Début:</h3>
+        <p>A l'Age de 3 ans : j'ai commencé la DANCE</p>
+        <p>A l'Age de 14 ans : j'ai Participé à La Télérealité ILAND </p>
+        <p>A l'Age de 15 ans : j'ai integré le groupe ENHYPEN</p>     
+      </div>
+      <div class="container">
+  <div class="image">
+    <img src="./images/ni.PNG" alt="Image 1">
+  </div>
+  <div class="image">
+    <img src="./images/nik.PNG" alt="Image 2">
+  </div>
+  <div class="image">
+    <img src="./images/niki.PNG" alt="Image 3">
+  </div>
+</div>
+
+        <div class= "section">
+           <h3><span role="img" aria-label="1er Album"></span> 1er Album: Border carnival </h3>
+              <img src="./images/BO.PNG" alt="Album 1">
+        <h3><span role="img" aria-label="2ème Album"></span> 2ème Album: Border carnival </h3>
+                    <img src="./images/ko.PNG" alt="Album 2">
+        <h3><span role="img" aria-label="Dernier Album"></span> Dernier Album: Border carnival </h3>
+      <img src="./images/mani.PNG" alt="Album 3">
+        </div>
+      
+      <div class="section">
+        <h2><span role="img" aria-label="Langues">🌐</span> Langues</h2>
+        <!-- Add your languages here -->
+        <p> Japonais 👺: Langue Maternelle</span>
+        <p> coréen🏮: Courant</p>
+        <p> Anglais🌇: Intermédiaire</p>
+      </div>
+     
+
+    </div>
+  </div>
+</body>
+
+</html>
